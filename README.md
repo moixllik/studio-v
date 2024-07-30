@@ -4,6 +4,8 @@
 
 > Todos os projetos são testados em CodeSpaces
 
+* [Dot Env](./dotenv/)
+
 ## Documentação
 
 * [Web oficial: V Language](https://vlang.io/)
@@ -12,4 +14,4 @@
 
 ## Editor Extensões
 
-* [v-analyzer](https://marketplace.visualstudio.com/items?itemName=VOSCA.vscode-v-analyzer)
+* [VS Code - V Analyzer](https://marketplace.visualstudio.com/items?itemName=VOSCA.vscode-v-analyzer)

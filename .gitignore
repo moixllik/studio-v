@@ -1,3 +1,6 @@
 __*
 *.zip
 v
+build
+/*/src/src
+.editorconfig
