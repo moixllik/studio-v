@@ -4,7 +4,8 @@
 
 > Todos os projetos são testados em CodeSpaces
 
-* [Dot Env](./dotenv/)
+* [Carregar variáveis em `.env`](./dotenv/)
+* [WebSite com Templates e JSON](./website/)
 
 ## Documentação
 

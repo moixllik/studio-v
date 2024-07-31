@@ -4,3 +4,5 @@ v
 build
 /*/src/src
 .editorconfig
+.gitattributes
+*.exe
