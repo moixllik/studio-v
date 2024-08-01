@@ -12,7 +12,7 @@ if os.args.len == 2 {
 			sh('v test src')
 		}
 		'prod' {
-			sh('v -prod src')
+			sh('v -prod -shared src')
 		}
 		'fmt' {
 			sh('v fmt -w src')
@@ -20,5 +20,5 @@ if os.args.len == 2 {
 		else {}
 	}
 } else {
-	sh('v src')
+	sh('v -shared src')
 }

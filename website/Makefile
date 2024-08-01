@@ -2,7 +2,7 @@ all:
 	@echo "main [option]"
 
 run:
-	v watch -o *.v,*.html run src
+	v watch --only-watch=*.v,*.html run src
 
 build:
 	v -prod -o app.exe src
