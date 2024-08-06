@@ -1,13 +1,14 @@
 # V
 
-## Projetos
+## Projects
 
-* [Carregar variáveis em `.env`](./dotenv/)
-* [WebSite com Templates e JSON](./website/)
-* [Driver para MongoDB](./mongodb/)
-* [Multiplataforma com C](./platform/)
+* [(PT) Carregar variáveis em `.env`](./dotenv/)
+* [(PT) WebSite com Templates e JSON](./website/)
+* [(PT) Driver para MongoDB](./mongodb/)
+* [(PT) Multiplataforma com C](./platform/)
+* [(PT) Testes com WebAssambly](./wasm/)
 
-## Documentação
+## References
 
 * [Web oficial: V Language](https://vlang.io/)
 * [Documentação oficial: V Language](https://docs.vlang.io/introduction.html)
